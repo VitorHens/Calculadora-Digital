@@ -1,3 +1,17 @@
-Calculadora Digital — Aplicação web desenvolvida em PHP utilizando POO, Slim Framework e Bootstrap. Possui módulos para cálculo de IMC, gerenciamento de estoque, médias escolares, salários e cálculos de triângulos.
+# 🧮 Calculadora Digital
 
- API REST com JWT — Sistema web com interface em HTML/JavaScript integrada a uma API REST, utilizando autenticação JWT e operações CRUD para cadastro, consulta, atualização e exclusão de dados.
+Aplicação web desenvolvida em PHP com Programação Orientada a Objetos, Slim Framework e Bootstrap.
+
+## Funcionalidades
+
+- Cálculo de IMC
+- Controle de estoque
+- Média escolar
+- Cálculo de salário
+- Cálculos de triângulos
+
+## Tecnologias
+
+PHP • HTML5 • Bootstrap • Slim Framework • Composer • POO
+
+Desenvolvido por **Vitor Hens**.
